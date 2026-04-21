@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <title>Tables Task</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin-bottom: 30px;
+            width: 60%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Table 1</h2>
+    <table>
+        <tr>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Yaş</th>
+        </tr>
+        <tr>
+            <td>Cavad</td>
+            <td>Şükürlü</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Ali</td>
+            <td>Həsənov</td>
+            <td>25</td>
+        </tr>
+    </table>
+
+    <h2>Table 2</h2>
+    <table>
+        <tr>
+            <th>Məhsul</th>
+            <th>Qiymət</th>
+        </tr>
+        <tr>
+            <td>Telefon</td>
+            <td>1200 AZN</td>
+        </tr>
+        <tr>
+            <td>Noutbuk</td>
+            <td>2500 AZN</td>
+        </tr>
+    </table>
+
+    <h2>Table 3 (colspan nümunəsi)</h2>
+    <table>
+        <tr>
+            <th colspan="2">Ad və Soyad</th>
+            <th>Yaş</th>
+        </tr>
+        <tr>
+            <td>Cavad</td>
+            <td>Şükürlü</td>
+            <td>20</td>
+        </tr>
+    </table>
+
+    <h2>Table 4 (rowspan nümunəsi)</h2>
+    <table>
+        <tr>
+            <th>Ad</th>
+            <th>Fənn</th>
+        </tr>
+        <tr>
+            <td rowspan="2">Cavad</td>
+            <td>Math</td>
+        </tr>
+        <tr>
+            <td>Physics</td>
+        </tr>
+    </table>
+
+</body>
+</html>
