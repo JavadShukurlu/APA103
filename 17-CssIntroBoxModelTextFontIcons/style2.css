@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Playfair+Display&display=swap');
+
+body { background-color: #ffffff; font-family: Arial, sans-serif; padding: 50px; line-height: 1.6; }
+.comparison-container { max-width: 800px; margin: 0 auto; }
+.row { margin-bottom: 50px; }
+.time { color: #2b73b7; font-size: 1.5rem; margin-bottom: 10px; }
+.text { font-size: 1.1rem; color: #333; }
+.standard { font-family: 'Playfair Display', serif; }
+.script { font-family: 'Dancing Script', cursive; font-style: italic; font-size: 1.3rem; }

@@ -1,0 +1,47 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.main-wrapper {
+    /* Arka plan görselini buraya ekleyebilirsin */
+    background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-box {
+    background: rgba(0, 0, 0, 0.5); /* Yarı saydam siyah arka plan */
+    backdrop-filter: blur(8px);      /* Buzlu cam efekti */
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 600px;
+    text-align: center;
+    line-height: 1.6;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.footer-logo {
+    margin-top: auto; /* Sayfanın en altına iter */
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.footer-logo span {
+    display: block;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #ff9800; /* Scaler tarzı turuncu vurgu */
+}
