@@ -7,8 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("Server=localhost,1433;Database=FrontToBackDb;User Id=sa;Password=Parol123456!;TrustServerCertificate=True");
+    opt.UseSqlServer("Server=.\\SQLEXPRESS;Database=FrontToBackDb;Trusted_Connection=True;TrustServerCertificate=True");
 });
+
 
 var app = builder.Build();
 
