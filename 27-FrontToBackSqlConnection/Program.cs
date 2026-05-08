@@ -7,9 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("Server=.\\SQLEXPRESS;Database=FrontToBackDb;Trusted_Connection=True;TrustServerCertificate=True");
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
 });
-
 
 var app = builder.Build();
 
@@ -17,7 +16,7 @@ app.UseStaticFiles();
 
 app.MapControllerRoute(
         name: "default",
-        pattern: "{controller=Home}/{action=Index}/{id?}");
+        pattern: "{controller=home}/{action=index}/{id?}");
 
 
 app.Run();

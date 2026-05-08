@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj": {}
+    "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj": {
+    "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj",
+        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj",
         "projectName": "FrontToBackSqlConnection",
-        "projectPath": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj",
+        "projectPath": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\FrontToBackSqlConnection.csproj",
         "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\obj\\",
+        "outputPath": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

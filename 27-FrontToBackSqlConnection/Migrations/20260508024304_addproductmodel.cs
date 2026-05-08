@@ -5,7 +5,7 @@
 namespace FrontToBackSqlConnection.Migrations
 {
     /// <inheritdoc />
-    public partial class CreateNewModel : Migration
+    public partial class addproductmodel : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

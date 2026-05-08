@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\",
+  "WorkspaceRootPath": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Migrations\\20260508024304_addproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260508024304_addproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260507072241_CreateNewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260507072241_CreateNewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\27-fronttobacksqlconnection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +54,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20260508024304_addproductmodel.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Migrations\\20260508024304_addproductmodel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260508024304_addproductmodel.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Migrations\\20260508024304_addproductmodel.cs",
+              "RelativeToolTip": "Migrations\\20260508024304_addproductmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:23:50.404Z",
+              "WhenOpened": "2026-05-08T02:43:05.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20260507072241_CreateNewModel.cs",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260507072241_CreateNewModel.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260507072241_CreateNewModel.cs",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260507072241_CreateNewModel.cs",
-              "RelativeToolTip": "Migrations\\20260507072241_CreateNewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:22:41.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:22:12.781Z",
+              "WhenOpened": "2026-05-08T02:40:51.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T07:21:36.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T07:19:17.317Z",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:39:43.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:18:19.558Z",
+              "WhenOpened": "2026-05-08T02:39:04.526Z",
               "EditorCaption": ""
             },
             {
@@ -121,6 +115,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:38:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:38:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:38:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:38:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:38:45.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:38:35.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\27-FrontToBackSqlConnection\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T02:38:07.608Z",
+              "EditorCaption": ""
             }
           ]
         },
