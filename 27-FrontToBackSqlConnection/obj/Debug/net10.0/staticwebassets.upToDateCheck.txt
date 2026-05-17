@@ -284,6 +284,7 @@ wwwroot\assets\images\website-images\3.png
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\dark.png
+wwwroot\assets\images\website-images\edb16295-83eb-408c-a669-04b3603d18afWhatsApp Image 2026-05-14 at 17.41.35.jpeg
 wwwroot\assets\images\website-images\new flower.jpg
 wwwroot\assets\images\website-images\quotation.png
 wwwroot\assets\images\website-images\service.png

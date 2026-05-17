@@ -91,18 +91,5 @@ namespace FrontToBackSqlConnection.Areas.AdminPanel.Controllers
             };
             return View(sliderVm);
         }
-
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id is null || id < 1) return BadRequest();
-
-            Slider? slider = await _context.Sliders
-                .Where(s => !s.isDeleted)
-                .FirstOrDefaultAsync(s => s.Id == id);
-
-            if (slider is null) return NotFound();
-
-            return View(slider);
-        }
     }
 }

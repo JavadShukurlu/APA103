@@ -1,0 +1,39 @@
+@model Slider
+<div class="row">
+    <div class="col-md-8 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Slider Detail</h4>
+
+                <div class="mb-3">
+                    <label class="form-label">Image</label>
+                    <div>
+                        <img src="~/assets/images/website-images/@Model.Image" alt="Slider Image" class="img-fluid" />
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Title</label>
+                    <input class="form-control" value="@Model.Title" readonly />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Subtitle</label>
+                    <input class="form-control" value="@Model.SubTitle" readonly />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Description</label>
+                    <textarea class="form-control" readonly>@Model.Desc</textarea>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Order</label>
+                    <input class="form-control" value="@Model.Order" readonly />
+                </div>
+
+                <a asp-action="index" class="btn btn-light mt-3">Back</a>
+            </div>
+        </div>
+    </div>
+</div>

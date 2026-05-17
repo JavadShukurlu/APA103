@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\slider\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\sliders\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\sliders\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,19 +62,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Details.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T14:35:39.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T14:27:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Sliders\\SliderUpdateVM.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Sliders\\SliderUpdateVM.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Sliders\\SliderUpdateVM.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Sliders\\SliderUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T20:11:42.299Z",
+              "WhenOpened": "2026-05-17T14:24:49.681Z",
               "EditorCaption": ""
             },
             {
@@ -55,33 +113,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T20:18:09.666Z",
+              "DocumentIndex": 6,
+              "Title": "SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T14:05:57.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
               "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T20:18:03.539Z",
+              "WhenOpened": "2026-05-17T14:04:52.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwF4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T20:09:08.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T13:00:06.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T20:11:42.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T14:13:33.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
@@ -89,20 +199,44 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAmwC0AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T20:11:14.05Z",
+              "WhenOpened": "2026-05-13T20:11:14.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T20:18:09.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T13:04:31.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwCMAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T20:09:08.505Z",
+              "WhenOpened": "2026-05-17T13:26:30.075Z",
               "EditorCaption": ""
             }
           ]
