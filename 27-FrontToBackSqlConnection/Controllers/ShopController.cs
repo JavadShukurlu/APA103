@@ -31,10 +31,12 @@ public class ShopController : Controller
     {
         if(id is null || id < 1) return BadRequest();
 
-        Product product= await _context.Products
+        Product? product= await _context.Products
             .Where(p=>!p.isDeleted)
             .Include(pi=>pi.ProductImages)
             .Include(p=>p.Category)
+            .Include(p=>p.ProductTags)
+            .ThenInclude(pt=>pt.Tag)
             .FirstOrDefaultAsync(p => p.Id == id);
 
 
