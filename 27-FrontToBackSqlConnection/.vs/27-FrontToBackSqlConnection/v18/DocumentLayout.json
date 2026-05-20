@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260519203326_addmodelthatTagandProductTag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260519203326_addmodelthatTagandProductTag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,6 +69,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\cavad\\desktop\\apa103\\27-fronttobacksqlconnection\\migrations\\20260519203326_addmodelthattagandproducttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:migrations\\20260519203326_addmodelthattagandproducttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,21 +82,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\Details.cshtml",
-              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
-              "RelativeToolTip": "Views\\Shop\\Details.cshtml",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAuwMIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T20:38:41.425Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -103,33 +94,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:51:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
               "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
               "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T18:30:53.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAAAJoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T20:28:04.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -137,12 +141,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAwwAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T20:30:05.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T20:30:05.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductTag.cs",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\ProductTag.cs",
               "RelativeDocumentMoniker": "Models\\ProductTag.cs",
@@ -150,25 +153,24 @@
               "RelativeToolTip": "Models\\ProductTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T20:30:52.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T20:30:52.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
               "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
               "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T19:33:06.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
@@ -176,25 +178,36 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T19:39:11.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T19:39:11.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwCsAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-19T18:33:18.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAuwMIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T20:38:41.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
@@ -202,12 +215,11 @@
               "RelativeToolTip": "Controllers\\ShopController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T20:37:49.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T20:37:49.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "20260519203326_addmodelthatTagandProductTag.cs",
               "DocumentMoniker": "C:\\Users\\cavad\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260519203326_addmodelthatTagandProductTag.cs",
               "RelativeDocumentMoniker": "Migrations\\20260519203326_addmodelthatTagandProductTag.cs",
@@ -215,8 +227,7 @@
               "RelativeToolTip": "Migrations\\20260519203326_addmodelthatTagandProductTag.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T20:33:26.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T20:33:26.205Z"
             },
             {
               "$type": "Document",
@@ -228,8 +239,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA5wA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T20:32:25.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T20:32:25.348Z"
             },
             {
               "$type": "Document",
@@ -241,8 +251,7 @@
               "RelativeToolTip": "Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T20:30:26.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T20:30:26.317Z"
             },
             {
               "$type": "Document",
@@ -254,8 +263,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAL8AAAAAAAAAAAAewMoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T19:46:34.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T19:46:34.499Z"
             },
             {
               "$type": "Document",
@@ -267,8 +275,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Product\\ProductGetVM.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T20:30:24.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T20:30:24.28Z"
             },
             {
               "$type": "Document",
@@ -304,8 +311,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAuwCcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T18:33:43.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T18:33:43.327Z"
             }
           ]
         },
