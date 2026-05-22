@@ -119,6 +119,31 @@ namespace FrontToBackSqlConnection.Areas.AdminPanel.Controllers
             {
                 product.ProductTags = productCreateVM.TagIds.Select(tagId => new ProductTag { TagId = tagId }).ToList();
             }
+            string info=string.Empty;
+
+            if(productCreateVM.AdditionalPhotos is not null)
+            {
+                foreach (var file in productCreateVM.AdditionalPhotos)
+                {
+                    if (!file.CheckFileType("image/"))
+                    {
+                        info += $"<p class=\"text-danger\">{file.FileName} type was not correct</p>";
+                        continue;
+                    }
+
+                    if (!file.CheckFileSize(FileSize.MB, 2))
+                    {
+                        info += $"<p class=\"text-danger\">{file.FileName} size was not correct</p>";
+                        continue;
+                    }
+                    product.ProductImages.Add(new ProductImage
+                    {
+                        Image = await file.CreateFile(_env.WebRootPath, "assets", "images", "website-images"),
+                        IsPrimary = false
+                    }); 
+                }
+            }
+            TempData["FileInfo"] = info;
 
             await _context.Products.AddAsync(product);
             await _context.SaveChangesAsync();
@@ -132,6 +157,7 @@ namespace FrontToBackSqlConnection.Areas.AdminPanel.Controllers
             if(id is null || id<1) return BadRequest();
 
             Product? product = await _context.Products
+                .Include(p=>p.ProductImages)
                 .Include(p=>p.ProductTags)
                 .FirstOrDefaultAsync(p => p.Id == id);
             if (product is null) return NotFound();
@@ -145,7 +171,9 @@ namespace FrontToBackSqlConnection.Areas.AdminPanel.Controllers
                 CategoryId = product.CategoryId,
                 TagIds = product.ProductTags.Select(pt => pt.TagId).ToList(),
                 Categories = await _context.Categories.Where(c => !c.isDeleted).ToListAsync(),
-                Tags=await _context.Tags.ToListAsync()
+                Tags=await _context.Tags.ToListAsync(),
+                ProductImages=product.ProductImages
+
             };
             return View(productUpdateVM);
             
