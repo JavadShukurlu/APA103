@@ -537,3 +537,4 @@ C:\Users\cavad\Desktop\APA103\27-FrontToBackSqlConnection\obj\Debug\net10.0\comp
 C:\Users\cavad\Desktop\APA103\27-FrontToBackSqlConnection\obj\Debug\net10.0\compressed\gmw1eelkkt-{0}-xtdfc48gxy-xtdfc48gxy.gz
 C:\Users\cavad\Desktop\APA103\27-FrontToBackSqlConnection\obj\Debug\net10.0\compressed\j9y3q7jewq-{0}-ezqx2lv87u-ezqx2lv87u.gz
 C:\Users\cavad\Desktop\APA103\27-FrontToBackSqlConnection\obj\Debug\net10.0\compressed\ej3r5icmnn-{0}-5uimphqlew-5uimphqlew.gz
+C:\Users\cavad\Desktop\APA103\27-FrontToBackSqlConnection\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
